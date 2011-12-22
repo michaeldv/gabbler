@@ -49,10 +49,8 @@ original text.
 * Send me a pull request.
 
 ### License ###
-Copyright (c) 2011 Michael Dvorkin
 
-twitter.com/mid
-
-%w(mike dvorkin.net) * "@" || %w(mike fatfreecrm.com) * "@"
-
-Released under the MIT license. See LICENSE file for details.
+    Copyright (c) 2011 Michael Dvorkin
+    twitter.com/mid
+    %w(mike dvorkin.net) * "@" || %w(mike fatfreecrm.com) * "@"
+    Released under the MIT license. See LICENSE file for details.
